@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1b82ea7b538aa469905ca232be60ce, type: 3}
+  m_Name: New Player Settings
+  m_EditorClassIdentifier: 
+  mouseLookSettings:
+    mouseSpeed: 50
+    sensitiveX: 5
+    sensitiveY: 5
+    viewingAngleX: 360
+    viewingAngleY: 90
+  moveSettings:
+    speed: 5
+    acceleratorSpeed: 10
+  jumpSettings:
+    jumpStrength: 4.25
+    groundCheckDistance: 0.5
+  crouchSettings:
+    heightCrouch: 0.75
+    heightStay: 1.5
+    crouchMoveSpeed: 3
+    crouchingSpeed: 2.5
+    obstacleCheckDistance: 0.05
+  swimSettings:
+    air: 50
+    swimmingSpeed: 2
+    swimmingAcceleratorSpeed: 3
+  climbSettings:
+    climbingSpeed: 7
+    climbingDistance: 0.1
+    climbingHeightMax: 2
+    climbingHeightMin: 0.2
+    ledgeCheckDistance: 0.3
+    climbingError: 0.06

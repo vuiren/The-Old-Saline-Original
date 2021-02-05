@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2020d19077711e643a50a795d478b01a, type: 3}
+  m_Name: StoneMushroom
+  m_EditorClassIdentifier: 
+  points:
+  - {x: 0, y: 0}
+  - {x: 1, y: 0}
+  - {x: 2, y: 0}
+  - {x: 3, y: 0}
+  - {x: 1, y: 1}
+  - {x: 2, y: 1}
+  sprites:
+  - {fileID: -5638231578668884028, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  - {fileID: 6545250453851532163, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  - {fileID: 8174112049994033704, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  - {fileID: -166755591309589342, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  - {fileID: 7815619910456336373, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  - {fileID: -4335565122838410691, guid: 2fdab13027fe1b749ba5ff6d801853b9, type: 3}
+  itemName: 
+  itemRarity: 0
+  barterPrice: 0
+  itemCategory: 0
+  rawMaterials_Condition: 0
+  consumable_NumberOfUses: 0
